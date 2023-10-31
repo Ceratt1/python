@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/test"
+		},
+		{
+			"path": "../../../comission"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "comission"
+	}
+}
