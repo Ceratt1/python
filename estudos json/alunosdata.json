@@ -1,0 +1,11 @@
+{
+    "joao": {
+        "idade": 29,
+        "senha": 201303
+    },
+    "maria": {
+        "nome": "Maria",
+        "idade": 25,
+        "cidade": "Outroville"
+    }
+}
