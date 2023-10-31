@@ -11,7 +11,7 @@ with open("alunosdata.json", "w") as alunosData:
     json.dump(alunos, alunosData, indent=4)
 
 alunos = {
-    "nome": "Maria",
+    "nome": "Mariaa",
     "idade": 25,
     "cidade": "Outroville"
 }
